@@ -32,6 +32,6 @@ The application contains unit wise discussion of the subject.This helps the read
 
 **Do rate and share if you like the app.**
 ## Screenshots
-![](./Screenshot1.png)
-![](./Screenshot2.png)
-![](./Screenshot3.png)
+![](./Screenshot1.jpg)
+![](./Screenshot2.jpg)
+![](./Screenshot3.jpg)
