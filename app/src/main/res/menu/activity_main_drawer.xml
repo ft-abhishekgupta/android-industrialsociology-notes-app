@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group >
+        <item
+            android:id="@+id/syllabus"
+            android:title="Syllabus" />
+        <item
+            android:id="@+id/u1"
+            android:title="Unit 1" />
+        <item
+            android:id="@+id/u2"
+            android:title="Unit 2" />
+        <item
+            android:id="@+id/u3"
+            android:title="Unit 3" />
+        <item
+            android:id="@+id/u4"
+            android:title="Unit 4" />
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/share"
+                android:title="Share" />
+            <item
+                android:id="@+id/rate"
+                android:title="Rate" />
+            <item
+                android:id="@+id/credit"
+                android:title="Credits" />
+        </menu>
+    </item>
+
+</menu>
